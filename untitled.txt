@@ -1,0 +1,6 @@
+does the array contain arrays?
+  no:
+    perform the rps method
+  yes:
+    check if this array contains array
+    
